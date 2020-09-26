@@ -1,0 +1,35 @@
+.Layout {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Montserrat', sans-serif;
+    margin: auto;
+}
+
+.Divider {
+    width: 100%;
+    border-bottom: 5px solid gray;
+}
+
+.Header{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+}
+
+.Body {
+    padding: 10px;
+    width: 80%;
+}
+
+.Footer {
+    width: 100%;
+    background-color:gray;
+    text-align: right;
+    font-size: small;
+    height: 200px;
+    color: white;
+    margin: absolute;
+}

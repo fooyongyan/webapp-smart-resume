@@ -1,0 +1,13 @@
+.Button {
+    width: 100%;
+    background-color: gray;
+    color: white;
+    font-size: small;
+    padding: 10px;
+    border: 0px;
+}
+
+button:hover {
+    text-decoration: underline;
+    color: lightblue;
+  }

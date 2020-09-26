@@ -1,0 +1,49 @@
+.AboutMe {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: auto;
+    align-content: stretch;
+    justify-content: flex-start;
+}
+
+.Side {
+    width: 20%;
+    min-width: 230px;
+    padding: 3px;
+    border: 1px dashed  red;
+    flex-grow: 1;
+}
+
+.Main {
+    width: 75%;
+    min-width: 230px;
+    padding: 3px;
+    flex-grow: 1;
+}
+
+.Main h3 {
+    border-bottom: 2px solid gray;  
+    font-weight: bold;
+    padding: 0px 20px 0px 20px;
+}
+
+.Main h5 {
+    font-weight: bold;
+}
+
+
+.Foot {
+    width: 100%;
+    min-width: 230px;
+    font-size: small;
+    padding: 3px;
+    flex-grow: 1;
+    text-align: right;
+}
+
+
+.Foot a {
+    color: black;
+    text-decoration: underline;
+}
