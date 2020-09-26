@@ -1,3 +1,4 @@
+
 export const careerData =  [
     { 
         id: 0,
@@ -30,7 +31,7 @@ export const careerData =  [
     },
     { 
         id: 2,
-        header: "Simulation & Software Technologies (S2T)",
+        company: "Simulation & Software Technologies (S2T)",
         title: "Senior Software Engineer",
         timePeriod: "Dec 2005 to Mar 2011",
         description: "S2T is a Singapore IT firm, specializing in Simulation and Data Analytics. I joined the company as a Software Engineer and went on to become a team lead in the company. I was fortunate to be the key Solution Architect for the Army Wargame Simluation System (AWSS) for Ministry of Defense, Singapore.",

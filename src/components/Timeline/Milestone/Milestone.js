@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import '../Timeline.scss'
-import Button from '../../../../Button/Button'
+import Button from '../../Button/Button'
 export default function Milestone ( props ) {
 
     const data = {...props.data};

@@ -1,7 +1,7 @@
 .Navbar {
     display: flex;
     align-items: center;
-    align-content: flex-end;
+    align-content: center;
     font-size: small;
     width: 100%;
     flex-wrap: wrap;

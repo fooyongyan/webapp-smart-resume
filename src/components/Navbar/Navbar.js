@@ -15,7 +15,6 @@ export default function navbar ( props) {
 
     return ( 
         <Aux>
-            <Logo />
             <div className = "Navbar"> 
                 {links.map(e => <NavItem title={e.title} route={e.route}/>)}
             </div>
