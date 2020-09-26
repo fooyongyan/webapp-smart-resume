@@ -1,3 +1,8 @@
+#About this Project
+
+I am creating this Project to build a web application to create an interactive personal profile to showcase individual profile, much like an interactive Resume, which allows users to create and handle various information and implementations. At the moment, everything is self-contained with no iteractions with any web applications. 
+
+#Additional Notes. 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
